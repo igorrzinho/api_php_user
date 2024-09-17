@@ -1,0 +1,1 @@
+https://wpwebinfotech.com/blog/how-to-build-simple-rest-api-in-php/
